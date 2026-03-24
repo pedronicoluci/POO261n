@@ -10,7 +10,7 @@ namespace AgregacaoVetorConta
         // Encapsulamento COMPACTO (prof. vai cobrar o normal)
         public int Numero { get; set; }
         // Estabelecimento de agrgação
-        public List<Cliente> Titular { get; set; }
+        public List<Cliente> VetTitular { get; set; }
         public double Saldo { get; set; }
     }
 }

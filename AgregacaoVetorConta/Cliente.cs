@@ -10,6 +10,9 @@ namespace AgregacaoVetorConta
         public string? Nome { get; set; }
         public int Rg { get; set; }
         public int Telefone { get; set; }
+        public void MostrarAtributos(){
+            Console.WriteLine("Nome: " + Nome + "\tRG: " + Rg + "\tTelefone: " + Telefone);
+        }
         
     }
 }
