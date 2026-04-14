@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\POO261n\\Revisao\\Revisão.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\POO261n\\Heranca\\Heranca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\POO261n\\Revisao\\Revisão.csproj": {
+    "C:\\Users\\aluno\\Desktop\\POO261n\\Heranca\\Heranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO261n\\Revisao\\Revisão.csproj",
-        "projectName": "Revisão",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\POO261n\\Revisao\\Revisão.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO261n\\Heranca\\Heranca.csproj",
+        "projectName": "Heranca",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\POO261n\\Heranca\\Heranca.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\POO261n\\Revisao\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\POO261n\\Heranca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
